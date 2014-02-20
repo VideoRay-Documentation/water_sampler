@@ -1,0 +1,8 @@
+case_control|word|description|  //* forces case sensitive,  ~ separates variations of words ex: "video ~video,~video." will not match VideoRay
+|Close|The state or action where the volume in the Water Sampler is getting smaller, forcing a sample to be expelled|
+|Collect|The process of filling the Water Sampler with a sample|
+|Contract|The reduction of volume in the Water Sampler causing a sample to be expelled|
+|Expand|The increase of volume in the Water Sampler causing a sample to be collected|
+|Expel|The process of emptying the Water Sampler of a collected sample|
+|Open|The state or action where the volume in the Water Sampler is getting larger, forcing a sample to be collected|
+|Volume|the space inside of the syringe|
