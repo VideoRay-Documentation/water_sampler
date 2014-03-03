@@ -3,7 +3,7 @@
 !VERSION,1.00.00
 !DOCTYPE,User Manual
 !OUT_DIR,water_sampler/
-!VALID_PAGES,
+!VALID_PAGES,1
 !VALID_TEXT,
 !TEMPLATE_COVER,required/htm/template_cover_print.htm,index_print.htm
 
@@ -20,3 +20,27 @@
 *,Maintenance Guide,,maintenance_.htm,,,
 
 *,Compatibility Guide,,compatibility_.htm,,,
+1*,Technical Documentation,,technical_documentation.htm,,,
+
+1**,Purchase Order,,purchase_order.htm,,,
+
+1**,Technical File,,technical_file.htm,,,
+1***,Overview,,tf_overview.htm,,,
+1***,Risk Assessments,,tf_risk_assessments.htm,,,
+1***,Standards Applied,,tf_standards.htm,,,
+1***,Assessment to Standards,,tf_assessment_standards.htm,,,
+1***,Design Drawings,,tf_design_drawings.htm,,,
+1***,Calculations,,tf_calculations.htm,,,
+1***,Test Reports,,tf_test_reports.htm,,,
+1***,Technical Data Sheets,,tf_data_sheets.htm,,,
+1***,Instruction Manuals,,tf_instruction_manuals.htm,,,
+1***,Declaration of Conformity,,tf_declaration_conformity.htm,,,
+
+1**,Lifetime Quality Record,,lifetime_quality_record.htm,,,
+1***,Drawing List,,lqr_drawing_list.htm,,,
+1***,Test Procedures/Certificates,,lqr_test.htm,,,
+1***,Declaration of Comformity,,lqr_declaration_conformity.htm,,,
+1***,Quality Plan,,lqr_quality_plan.htm,,,
+1***,TQ/Concessions,,lqr_tc_concessions.htm,,,
+1***,Release Certificate,,lqr_release_certificate.htm,,,
+1***,Subcontractor Documentation,,lqr_subcontractor.htm,,,
